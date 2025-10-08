@@ -1,4 +1,4 @@
-# Market-Research-Agent
+# Multi Agent Market Researcher
 
 ## Description
 
@@ -16,7 +16,7 @@ To run this project, follow these steps:
 
 2. Navigate to the project directory.
    ```bash
-   cd Market-Research-Agent
+   cd Multi-Agent-Market-Researcher
    ```
 
 3. Install the required dependencies.
