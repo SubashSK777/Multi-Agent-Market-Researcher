@@ -11,7 +11,7 @@ To run this project, follow these steps:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/SubashSK777/Market-Research-Agent.git
+   git clone https://github.com/SubashSK777/Multi-Agent-Market-Researcher
    ```
 
 2. Navigate to the project directory.
