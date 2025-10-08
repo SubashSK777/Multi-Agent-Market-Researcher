@@ -1,4 +1,4 @@
-# Market-Research-Agent
+# Multi Agent Market Researcher
 
 ## Description
 
